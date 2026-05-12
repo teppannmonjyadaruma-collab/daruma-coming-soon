@@ -1,8 +1,8 @@
 import Image from "next/image";
 
 export const metadata = {
-  title: "公式サイト準備中 | だるま",
-  description: "焼もんじゃ鉄板 だるま 公式サイト準備中ページ",
+  title: "だるま | 公式サイト準備中",
+  description: "「鉄板もんじゃ だるま」公式サイト準備中ページ",
 };
 
 export default function Home() {
